@@ -1,4 +1,4 @@
 # Video-Analysis
 
-## Grab and Run Yolov5 using OpenCV
+## Grab and Run Yolov5 using PIP Package
 
