@@ -14,6 +14,8 @@ YouTube: https://youtu.be/FsG7JBPkzw0
 
 ![Yolov4_with_OpenCV](https://github.com/SamiUddin-tech/Video-Analysis/assets/81253183/a72bd454-5361-4af6-b255-fd0e84e478bf)
 
+GitHub: https://youtu.be/mnrWip6ECmw
+
 ## 3. Grab and Run Yolov5 using PyTorch
 
 ![Yolov5_with_PyTorch](https://github.com/SamiUddin-tech/Video-Analysis/assets/81253183/10ae5e58-9c66-4a77-9f69-1bbeeb0f2f84)
