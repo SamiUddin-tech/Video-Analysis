@@ -20,4 +20,8 @@ Watch on [YouTube](https://youtu.be/mnrWip6ECmw)
 
 ## 3. Grab and Run Yolov5 using PyTorch
 
+Watch on [YouTube](https://youtu.be/kBXtbPSZFLg)
+
+Watch on [LinkedIn](https://www.linkedin.com/posts/sami-uddin-computer-vision-expert-a6b40b20a_computervision-ai-yolov5-activity-7101256406820880384-MsyS?utm_source=share&utm_medium=member_desktop)
+
 ![Yolov5_with_PyTorch](https://github.com/SamiUddin-tech/Video-Analysis/assets/81253183/10ae5e58-9c66-4a77-9f69-1bbeeb0f2f84)
