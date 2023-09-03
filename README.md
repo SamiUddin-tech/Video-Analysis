@@ -29,7 +29,7 @@ Watch on [LinkedIn](https://www.linkedin.com/posts/sami-uddin-computer-vision-ex
 
 https://github.com/SamiUddin-tech/Video-Analysis/assets/81253183/248091d4-a0f8-41e4-91fb-c214c7c62f84
 
-### 3. Sparse Optical Flow Vs. Dense Optical Flow
+### 4. Sparse Optical Flow Vs. Dense Optical Flow
 
 https://github.com/SamiUddin-tech/Video-Analysis/assets/81253183/8b20b380-2b31-48da-8f96-b8bd170602aa
 
