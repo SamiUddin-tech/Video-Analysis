@@ -29,7 +29,7 @@ Feature Matching
 
 ### 5. Sparse Optical Flow Vs. Dense Optical Flow
 
-Watch on [YouTube](https://youtu.be/9RsrAp2iYb4) and [LinkedIn]()
+Watch on [YouTube](https://youtu.be/9RsrAp2iYb4) and [LinkedIn](https://www.linkedin.com/posts/sami-uddin-a6b40b20a_opencv-python-optical-activity-7105138782651203584-FMIg?utm_source=share&utm_medium=member_desktop)
 
 ![Sparse_Vs_Dense_Optical Flow](https://github.com/SamiUddin-tech/Video-Analysis/assets/81253183/56d8759c-c376-40a3-bcb2-a930e0cac367)
 
