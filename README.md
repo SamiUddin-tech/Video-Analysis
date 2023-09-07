@@ -34,3 +34,9 @@ Watch on [YouTube](https://youtu.be/9RsrAp2iYb4) and [LinkedIn](https://www.link
 ![Sparse_Vs_Dense_Optical Flow](https://github.com/SamiUddin-tech/Video-Analysis/assets/81253183/56d8759c-c376-40a3-bcb2-a930e0cac367)
 
 The experiment is being conducted on [Video](https://www.youtube.com/watch?v=MNn9qKG2UFI&list=PLcQZGj9lFR7y5WikozDSrdk6UCtAnM9mB&index=1)
+
+### 6. Small Object detection using SAHI and Yolov8
+
+The experiment was done by following [Roboflow Artical: How to detect small objects using SAHI](https://blog.roboflow.com/how-to-use-sahi-to-detect-small-objects/) and utilized [ultralytic Yolov8](https://pypi.org/project/ultralytics/) for object detection.
+
+![Sahi_Yolov8](https://github.com/SamiUddin-tech/Video-Analysis/assets/81253183/2b916820-7845-4143-a533-21a66f699ff6)
